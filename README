@@ -1,0 +1,19 @@
+The files for gripper were created by Yuuta Watanabe.
+
+License is 'CC BY'.
+
+1. For URDF Using RViz Of ROS
+/home/rt/Downloads/simple_gripper_for_ax12/dae/gripper_center.dae
+/home/rt/Downloads/simple_gripper_for_ax12/dae/gripper_left.dae
+/home/rt/Downloads/simple_gripper_for_ax12/dae/gripper_right.dae
+
+2. For Other Design Tools
+/home/rt/Downloads/simple_gripper_for_ax12/stl/gripper_center.stl
+/home/rt/Downloads/simple_gripper_for_ax12/stl/gripper_left.stl
+/home/rt/Downloads/simple_gripper_for_ax12/stl/gripper_right.stl
+
+3. For Printing Using 3D Printer (Makerbot Replicator)
+/home/rt/Downloads/simple_gripper_for_ax12/x3g/gripper_all.x3g
+/home/rt/Downloads/simple_gripper_for_ax12/x3g/gripper_center.x3g
+/home/rt/Downloads/simple_gripper_for_ax12/x3g/gripper_left.x3g
+/home/rt/Downloads/simple_gripper_for_ax12/x3g/gripper_right.x3g
